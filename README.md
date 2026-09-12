@@ -1,6 +1,6 @@
 # Cálculo del total de una compra
 
-**Nombre del estudiante:** Tu Nombre
+**Nombre del estudiante:** Micaela Rueda
 
 ## Descripción
 
